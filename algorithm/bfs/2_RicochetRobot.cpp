@@ -1,3 +1,7 @@
+// Description: 2_RicochetRobot.cpp
+// 프로그래머스 문제: 리코쳇 로봇
+// 난이도 2
+
 #include "2_RicochetRobot.h"
 
 int RicochetRobot::solution(vector<string> board) {

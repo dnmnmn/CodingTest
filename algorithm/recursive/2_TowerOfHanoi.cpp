@@ -1,3 +1,7 @@
+// Description: 2_TowerOfHanoi.cpp
+// 프로그래머스 문제: 하노이의 탑
+// 난이도 2
+
 #include "2_TowerOfHanoi.h"
 
 void TowerOfHanoi::recursive(vector<vector<int>>* answer, int start, int temp, int goal, int n)

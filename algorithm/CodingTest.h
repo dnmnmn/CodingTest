@@ -1,10 +1,12 @@
 #pragma once
 
 #include <vector>
+#include <string>
 #include <iostream>
 #include <algorithm>
 #include <queue>
 #include <stack>
+#include <map>
 
 using namespace std;
 
