@@ -18,7 +18,7 @@ add_executable (CodingTest
 	"algorithm/CodingTest.h"
 	"algorithm/recursive/2_TowerOfHanoi.cpp"
 	"algorithm/recursive/2_TowerOfHanoi.h"
- "algorithm/bfs/2_RicochetRobot.cpp" "algorithm/bfs/2_RicochetRobot.h" "algorithm/sort/2_InterceptionSystem.cpp" "algorithm/sort/2_InterceptionSystem.h" "main.h" "algorithm/others/2_TwoCircle.cpp" "algorithm/others/2_TwoCircle.h" "algorithm/others/2_ContinualSequenceNum.cpp" "algorithm/others/2_ContinualSequenceNum.h" "algorithm/stack/2_TackProcess.cpp" "algorithm/stack/2_TaskProcess.h" "algorithm/others/2_BilliardsPractice.h" "algorithm/others/2_BilliardsPractice.cpp" "algorithm/bfs/2_MazeEscape.cpp" "algorithm/bfs/2_MazeEscape.h" "algorithm/bfs/2_DesertIsland.h" "algorithm/bfs/2_DesertIsland.cpp")
+ "algorithm/bfs/2_RicochetRobot.cpp" "algorithm/bfs/2_RicochetRobot.h" "algorithm/sort/2_InterceptionSystem.cpp" "algorithm/sort/2_InterceptionSystem.h" "main.h" "algorithm/others/2_TwoCircle.cpp" "algorithm/others/2_TwoCircle.h" "algorithm/others/2_ContinualSequenceNum.cpp" "algorithm/others/2_ContinualSequenceNum.h" "algorithm/stack/2_TackProcess.cpp" "algorithm/stack/2_TaskProcess.h" "algorithm/others/2_BilliardsPractice.h" "algorithm/others/2_BilliardsPractice.cpp" "algorithm/bfs/2_MazeEscape.cpp" "algorithm/bfs/2_MazeEscape.h" "algorithm/bfs/2_DesertIsland.h" "algorithm/bfs/2_DesertIsland.cpp" "algorithm/goorm/Infection.cpp" "algorithm/goorm/Infection.h" "algorithm/others/2_HotelRental.h" "algorithm/others/2_HotelRental.cpp" "algorithm/bfs/2_ConvertNum.cpp" "algorithm/bfs/2_ConvertNum.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET CodingTest PROPERTY CXX_STANDARD 20)

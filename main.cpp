@@ -3,7 +3,7 @@
 
 int main()
 {
-	DesertIsland test;
+	ConvertNum test;
 	test.testCase();
 
 	return 0;
